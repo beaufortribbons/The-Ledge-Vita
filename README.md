@@ -1,6 +1,6 @@
 <img width="421" height="197" alt="TheLedgeTitlerpgmaker net" src="https://github.com/user-attachments/assets/9638617a-3238-417a-bdb3-2bda6b9258ee" />
 
-# The Ledge — PS Vita homebrew, v0.34
+# The Ledge — PS Vita homebrew port
 
 A short narrative game originally made with RPG Maker MV, now adapted for
 homebrew-enabled PS Vita systems. Approximate play time: five-ten minutes.
